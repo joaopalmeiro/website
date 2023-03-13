@@ -11,3 +11,5 @@
 - https://sdrn.co/
 - https://rauno.me/
 - https://leerob.io/
+- https://joebell.co.uk/
+- https://bmrks.com/

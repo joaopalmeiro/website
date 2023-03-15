@@ -13,3 +13,5 @@
 - https://leerob.io/
 - https://joebell.co.uk/
 - https://bmrks.com/
+- https://hirok.io/
+- https://shud.in/

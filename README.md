@@ -18,3 +18,4 @@
 - https://www.aarv.me/
 - https://www.leemartin.com/
 - https://cretu.dev/
+- https://marcel.fyi/

@@ -1,0 +1,7 @@
+# Projects
+
+## Python
+
+### CLI
+
+- blurhashify

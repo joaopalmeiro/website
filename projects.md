@@ -1,7 +1,9 @@
 # Projects
 
-## Python
+## DX
 
-### CLI
+- vscode-profiles
+
+## CLIs
 
 - blurhashify
